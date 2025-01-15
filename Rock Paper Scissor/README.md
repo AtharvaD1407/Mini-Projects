@@ -1,6 +1,14 @@
 # Rock Paper Scissors 🎮
 Welcome to the Rock Paper Scissors game! This is a fun and interactive game built with HTML, CSS, and JavaScript. You can challenge the computer by choosing Rock, Paper, or Scissors, and the game will decide the winner based on traditional rules.
 
+---
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/703ca0c0-2f22-4786-9b40-b42dd501ef8c" width="600" />
+</div>
+
+---
+
 ## 📜 How It Works
 - The game prompts you to choose Rock, Paper, or Scissors.
 - The computer randomly selects one of the options.
