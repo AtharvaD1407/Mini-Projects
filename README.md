@@ -4,14 +4,9 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 
 ---
 
-🗂️ **Project List**
+## 🗂️ Project List
 
-- Rock Paper Scissors
-- Interactive To-Do List
-- Simple Calculator
-- Weather App
-- Quiz Game
-- Calculator App
+- [Rock Paper Scissors](./Rock%20Paper%20Scissor/)
 
 ---
 
