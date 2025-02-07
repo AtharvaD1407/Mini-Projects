@@ -1,6 +1,12 @@
-# 🎨 **Background Color Changer**
+<h1>🎨 Background Color Changer</h1>
 
 Welcome to the **Background Color Changer**! This is a simple project built with **HTML**, **CSS**, and **JavaScript** that allows users to choose a color and change the background color of the webpage.
+
+---
+
+<div align="center">
+    <img src="Images/colorChanger.png" width="600" align="middle"/>
+</div>
 
 ---
 
