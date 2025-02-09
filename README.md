@@ -8,6 +8,7 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 
 - [Rock Paper Scissors](./Rock%20Paper%20Scissor/)
 - [Background Color Changer](./Background%20Color%20Changer/)
+- [Attendance Calculator](./Attendance%20Calculator)
 
 ---
 
