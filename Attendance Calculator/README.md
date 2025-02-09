@@ -7,7 +7,7 @@ Welcome to the **Attendance Calculator**! This is a **simple yet powerful** web 
 It’s a **clean and easy-to-use** interface where you can input the **subject name**, **total lectures**, and **attended lectures** in a table. Once you hit the **Calculate** button, the app will show your **attendance percentage** in a neatly formatted table. And don't worry, if you need to start over, the **Reset** button will hide everything, allowing you to re-enter new data. 🌟
 
 <div align="center">
-    <img src="Images/project snapshot.png" alt="website">
+    <img src="Images/project snapshot.png" alt="website" height="400px" width="400px">
 </div>
 
 ## ⚙️ Features
