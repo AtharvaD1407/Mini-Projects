@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Attendance Calculator</title>
+</head>
+<body>
+    <div id="container">
+        <h1>Attendance Calculator</h1>
+
+        <table id="table" border="1">
+            <thead class="tablehead">
+                <tr>
+                    <th>Subject</th>
+                    <th>Total Lectures</th>
+                    <th>Attended Lectures</th>
+                </tr>
+            </thead>
+            <tbody class="tablebody">
+                    <tr>
+                        <td><input type="text" max="100" min="1" id="sub1"></td>
+                        <td><input type="number" id="sub1total" max="100" min="1"></td>
+                        <td><input type="number" id="sub1attend" max="100" min="1"></td>
+                    </tr>
+
+                    <tr>
+                        <td><input type="text" max="100" min="1" id="sub2"></td>
+                        <td><input type="number" id="sub2total" max="100" min="1"></td>
+                        <td><input type="number" id="sub2attend" max="100" min="1"></td>
+                    </tr>
+
+                    <tr>
+                        <td><input type="text" max="100" min="1" id="sub3"></td>
+                        <td><input type="number" id="sub3total" max="100" min="1"></td>
+                        <td><input type="number" id="sub3attend" max="100" min="1"></td>
+                    </tr>
+
+                    <tr>
+                        <td><input type="text" max="100" min="1" id="sub4"></td>
+                        <td><input type="number" id="sub4total" max="100" min="1"></td>
+                        <td><input type="number" id="sub4attend" max="100" min="1"></td>
+                    </tr>
+
+                    <tr>
+                        <td><input type="text" max="100" min="1" id="sub5"></td>
+                        <td><input type="number" id="sub5total" max="100" min="1"></td>
+                        <td><input type="number" id="sub5attend" max="100" min="1"></td>
+                    </tr>
+            </tbody>
+        </table>
+
+        <div>
+            <button type="submit" id="calBtn" onclick="showTable()">Calculate</button>
+            <button type="reset" id="resetBtn" onclick="hideTable()">Reset</button>
+        </div>
+
+    </div>
+
+    <div id="resultTable">
+        <table border="1" id="result">
+            <thead class="tablehead">
+                <tr>
+                    <th>Subject</th>
+                    <th>Attendance</th>
+                </tr>
+            </thead>
+            <tbody class="tablebody">
+                <tr>
+                    <td id="resultsub1"></td>
+                    <td id="sub1attendance"></td>
+                </tr>
+                <tr>
+                    <td id="resultsub2"></td>
+                    <td id="sub2attendance"></td>
+                </tr>
+                <tr>
+                    <td id="resultsub3"></td>
+                    <td id="sub3attendance"></td>
+                </tr>
+                <tr>
+                    <td id="resultsub4"></td>
+                    <td id="sub4attendance"></td>
+                </tr>
+                <tr>
+                    <td id="resultsub5"></td>
+                    <td id="sub5attendance"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

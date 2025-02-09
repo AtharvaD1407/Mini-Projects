@@ -1,0 +1,64 @@
+body, #container{
+    margin: 20px 0 0 0;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#container{
+    background-color: aliceblue;
+    width: 600px;
+    height: 400px;
+}
+
+#table{
+    border: 1;
+    margin-bottom: 15px;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+.tablehead{
+    background-color: lightslategray;
+}
+
+.tablebody{
+    background-color: lavender;
+}
+
+#calBtn, #resetBtn{
+    margin: 10px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    height: 35px;
+    width: 75px;
+    text-align: center;
+}
+
+#calBtn:hover, #resetBtn:hover{
+    transform: scale(1.1);
+    background-color: #2a2828;
+}
+
+#resultTable{
+    background-color: aliceblue;
+    margin: 40px 0 0 0 ;
+    display: none;
+    height: 250px;
+    width: 450px;
+    text-align: center;
+}
+
+#result{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    margin: 30px;
+}
+
+
