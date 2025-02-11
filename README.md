@@ -4,11 +4,13 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 
 ---
 
-## 🗂️ Project List
+## 📂 Project List
 
-- [Rock Paper Scissors](./Rock%20Paper%20Scissor/)
-- [Background Color Changer](./Background%20Color%20Changer/)
-- [Attendance Calculator](./Attendance%20Calculator)
+| Project Name             | Live Demo                                                     |
+| ------------------------ | ------------------------------------------------------------- |
+| Rock Paper Scissors      | [🔗 Demo](https://rock-paper-scissor-tau-bice.vercel.app/)    |
+| Background Color Changer | [🔗 Demo](https://background-color-changer-ashen.vercel.app/) |
+| Attendance Calculator    | [🔗 Demo](https://attendance-calculator-seven.vercel.app/)    |
 
 ---
 
