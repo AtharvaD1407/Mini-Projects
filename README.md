@@ -12,6 +12,7 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 | **Background Color Changer** | [Demo](https://background-color-changer-ashen.vercel.app/) |
 | **Attendance Calculator**    | [Demo](https://attendance-calculator-seven.vercel.app/)    |
 | **Expense Tracker**          | [Demo](https://expense-tracker-alpha-gray.vercel.app/)     |
+| **BMI Calculator**           | [Demo](https://bmi-calculator-neon-sigma.vercel.app/)      |
 
 ---
 
