@@ -1,0 +1,49 @@
+body{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: aliceblue;
+    height: 260px;
+    width: 400px;
+}
+
+#result{
+    border: none;
+    border-radius: 10px;
+    width: 340px;
+    height: 60px;
+    background-color: lightgreen;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    display: none;
+    margin-left: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+label, input{
+    margin-left: 30px;
+    width: 250px;
+    border-radius: 18px;
+    height: 20px;
+}
+
+button{
+    margin-left: 30px;
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(152, 145, 143);
+    font-size: larger;
+}
