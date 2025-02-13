@@ -24,7 +24,7 @@ This is a **Password Generator** web application that allows users to generate r
 
 ---
 
-<div>
+<div align="center">
     <img src="Images/Password generator.png" alt="project snapshot" width="600px">
 </div>
 
