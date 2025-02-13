@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Password Generator</title>
+</head>
+
+<body>
+
+    <div id="container">
+        <h1>Password Generator</h1>
+
+        <label for="strength">Strength :</label><br>
+        <select name="strength" id="strength">
+            <option value="--select--">--select--</option>
+            <option value="weak">Weak</option>
+            <option value="medium">Medium</option>
+            <option value="strong">Strong</option>
+            <option value="very strong">Very Strong</option>
+        </select>
+
+        <br>
+
+        <label for="length">Length :</label><br>
+        <input type="text" name="length" id="length" placeholder="Enter Length..."><br>
+
+        <br>
+
+        <button type="button" onclick="generatePassword()">Generate</button>
+
+        <div id="result">
+            <h2 id="finalResult"></h2>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

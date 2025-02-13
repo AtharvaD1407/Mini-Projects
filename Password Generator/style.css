@@ -1,0 +1,51 @@
+body {
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: #2d2d2d;
+    height: 260px;
+    width: 400px;
+    color: #ffffff;
+}
+
+#result {
+    border: none;
+    border-radius: 10px;
+    width: 340px;
+    height: 30px;
+    background-color: #222222;
+    color: #90EE90;
+    font-weight: bolder;
+    text-align: center;
+    display: none;
+    margin-left: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label,
+input, select {
+    margin-left: 30px;
+    width: 250px;
+    border-radius: 18px;
+    height: 20px;
+}
+
+button {
+    margin-left: 30px;
+    width: 340px;
+    height: 30px;
+    border: none;
+    border-radius: 25px;
+    background-color: #4CAF50;
+    font-size: larger;
+}
