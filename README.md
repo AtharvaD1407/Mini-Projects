@@ -13,6 +13,7 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 | **Attendance Calculator**    | [Demo](https://attendance-calculator-seven.vercel.app/)    |
 | **Expense Tracker**          | [Demo](https://expense-tracker-alpha-gray.vercel.app/)     |
 | **BMI Calculator**           | [Demo](https://bmi-calculator-neon-sigma.vercel.app/)      |
+| **Password Generator**       | [Demo](https://password-generator-five-silk.vercel.app/)   |
 
 ---
 
