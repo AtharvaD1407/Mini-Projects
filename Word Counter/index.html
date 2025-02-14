@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Word Counter</title>
+</head>
+<body>
+    <h1>Word Counter</h1>
+
+    <div id="container">
+
+        <textarea name="content" id="content" placeholder="Enter Text..."></textarea>
+        <button type="button" onclick="countWord()">Count</button>
+    </div>
+
+    <div id="result">
+        <p id="wordCount"></p>
+        <p id="charCount"></p>
+        <p id="spaceCount"></p>
+        <p id="puncCount"></p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
