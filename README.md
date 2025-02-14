@@ -14,6 +14,7 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 | **Expense Tracker**          | [Demo](https://expense-tracker-alpha-gray.vercel.app/)     |
 | **BMI Calculator**           | [Demo](https://bmi-calculator-neon-sigma.vercel.app/)      |
 | **Password Generator**       | [Demo](https://password-generator-five-silk.vercel.app/)   |
+| **Word Counter**             | [Demo](https://word-counter-azure.vercel.app/)             |
 
 ---
 
