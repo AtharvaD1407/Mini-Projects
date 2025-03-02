@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: wheat;
+}
+
+#cal {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+  border-radius: 60px;
+  max-width: 500px;
+  overflow: hidden;
+}
+
+#display {
+  width: 410px;
+  height: 60px;
+  font-size: 5rem;
+  text-align: right;
+  padding: 36px;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+
+#btn {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 11px;
+  padding: 25px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: none;
+  background-color: gray;
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: hsl(0, 0%, 40%);
+}
+
+#me {
+    background-color: black;
+}
