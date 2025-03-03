@@ -16,6 +16,7 @@ Welcome to the **Mini Projects** repository! This collection contains beginner-f
 | **Password Generator**       | [Demo](https://password-generator-five-silk.vercel.app/)   |
 | **Word Counter**             | [Demo](https://word-counter-azure.vercel.app/)             |
 | **Calculator**               | [Demo](https://calculator-phi-puce.vercel.app/)            |
+| **Github Profile Viewer**    | [Demo](https://github-profile-viewer-black.vercel.app/)                                                                                       |
 
 ---
 
